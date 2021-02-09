@@ -2,6 +2,7 @@
 node_modules
 /dist
 /api/client_secrets.json
+/api/__pycache__/
 
 # local env files
 .env.local

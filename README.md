@@ -27,7 +27,7 @@ yarn serve
 
 Start the API
 ```
-yarn start api
+yarn start-api
 ```
 
 Acess: http://localhost:8080

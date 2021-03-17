@@ -12,7 +12,7 @@ Create your Oauth2 credentials on [Google Developers Console](https://console.de
 
 Installing the python requeriments
 ```
-pip install -r api/requirements.txt
+pip install -r api/requeriments.txt
 ```
 
 Installing the Vue dependencies
@@ -27,7 +27,7 @@ yarn serve
 
 Start the API
 ```
-yarn start api
+yarn start-api
 ```
 
 Acess: http://localhost:8080
